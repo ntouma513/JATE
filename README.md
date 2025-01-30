@@ -13,3 +13,9 @@
 ### IndexDB
 
 ## Credits
+
+## https://stackoverflow.com/questions/43664200/what-is-the-difference-between-npm-install-and-npm-run-build
+## https://www.geeksforgeeks.org/how-to-run-configure-and-troubleshoot-npm-scripts/
+## https://emenikeblog.hashnode.dev/deploying-a-javascript-project-on-render-a-step-by-step-guide
+
+## Deployed Project 
